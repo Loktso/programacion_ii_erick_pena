@@ -1,6 +1,6 @@
 # Programación II
 
-Repositorio académico para organizar los ejercicios, prácticas, proyectos y subproyectos de la materia.
+Repositorio académico de Peña Erick donde se organiza los ejercicios, prácticas, proyectos y subproyectos de Programacion II/Universidad UTE
 
 ## Tecnologías
 
